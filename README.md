@@ -14,7 +14,7 @@ Syntax highlighted code block
 <!doctype html>
 <html amp lang="en">
   <head>
-    <meta charset="utf-8">
+    <amp-img src="welcome.jpg" alt="Welcome" height="400" width="800"></amp-img><meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Hello, AMPs</title>
     <link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
