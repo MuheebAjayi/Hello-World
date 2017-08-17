@@ -13,7 +13,16 @@ Syntax highlighted code block
 
 <!doctype html>
 <html amp lang="en">
-  <head>
+  <style amp-custom>
+  /* any custom style goes here */
+  body {
+    background-color: white;
+  }
+  amp-img {
+    background-color: gray;
+    border: 1px solid black;
+  }
+</style><head>
     <amp-img src="welcome.jpg" alt="Welcome" height="400" width="800"></amp-img><meta charset="utf-8">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <title>Hello, AMPs</title>
