@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 <!doctype html>
 <html amp lang="en">
-  <style amp-custom>
+  <link rel="canonical" href="https://www.example.com/url/to/amp/document.html"><style amp-custom>
   /* any custom style goes here */
   body {
     background-color: white;
